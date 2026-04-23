@@ -1,0 +1,14 @@
+# Using Python 3.11
+
+# Data science
+numpy
+pandas
+plotly
+nbformat>=4.2.0
+
+# Excel integration
+xlwings
+openpyxl
+
+# Data collection
+yfinance
